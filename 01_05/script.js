@@ -48,7 +48,7 @@ const markup = (backpack) => {
 	  <li>Top lid: ${backpack.lidOpen ? "Open" : "Closed"}</li>
 	</ul>
   </div>
-`;
+`
 };
 
 const main = document.createElement("main");
